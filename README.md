@@ -1,16 +1,21 @@
-## Hi there 👋
+# Abdul Hadi
 
-<!--
-**AbdulHadiSSE/AbdulHadiSSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack web engineer, working in JavaScript since August 2024. Building toward Forward Deployed Engineer.
 
-Here are some ideas to get you started:
+## Current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next.js, React, TypeScript, Node, Express, Prisma, Postgres, MongoDB
+
+## Focused on
+
+System design, latency optimization, database, testing, cloud and deployment
+
+## Projects
+
+**DevStash:** Next.js 16, TypeScript, Prisma, NextAuth. Built through a Traversy course.
+
+**Stack Scholars:** MERN. Built through PNY, in progress.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/abdulhadi-sse/)
